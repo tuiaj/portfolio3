@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://tuiaj.github.io/portfolio2//sitemap.xml
